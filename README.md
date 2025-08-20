@@ -1,5 +1,5 @@
 # 💫 Software Engineer:
-🔭 Proficient in web application development<br>🌱 Specializes in backend development with Laravel/Express/Java<br>😄 AI/Machine Learning engineer/enthusiast<br>🌱 Cybersecurity advocate<br>⚡ Available for collaborations
+🔭 Proficient in web application development<br>🌱 Specializes in backend development with Laravel/Express/Java<br>😄 AI/Machine Learning engineer<br>🌱 Cybersecurity research<br>⚡ Available for collaborations
 
 
 ## 🌐 Socials:
